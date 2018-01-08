@@ -1,10 +1,6 @@
 $(document).ready(function () {
 
-    //Esconder icono menu
-    $(".js-menu").hide();
+    //Esconder icono menu Actividad 1
+    $('.js-menu').hide();
 
 });
-
-function printNews(){
-  
-}
